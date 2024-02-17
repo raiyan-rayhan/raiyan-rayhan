@@ -1,6 +1,7 @@
+![I am a Passionate coder & Learning front-end development](https://pbs.twimg.com/profile_banners/1751638045345079297/1706465225/1500x500)
+
 ### Hi there 👋, My name is Rayhan
 #### I am a Passionate coder & Learning front-end development
-![I am a Passionate coder & Learning front-end development](https://twitter.com/rayhan_Raian/header_photo)
 
 I am learning Front end web development. In my profile repositories, I commit my Practicing Code and Projects. Thank You 🙂
 
@@ -14,5 +15,4 @@ Skills: HTML / CSS / Learning Javascript
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raiyan-rayhan)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=raiyan-rayhan&show_icons=true&count_private=true)  
-
 
